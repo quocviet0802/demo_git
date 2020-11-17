@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605597709 source:d:\lg_training\git\demo_git\tutorial\tutorial\main.cpp
+	<iostream>
+	"Figure.h"
+	"FigIO.h"
+
+1605597722 d:\lg_training\git\demo_git\tutorial\tutorial\figure.h
+
+1605595563 source:d:\lg_training\git\demo_git\tutorial\tutorial\figure.cpp
+	"Figure.h"
+
+1605597474 source:d:\lg_training\git\demo_git\tutorial\tutorial\figio.cpp
+	"FigIO.h"
+
+1605597518 d:\lg_training\git\demo_git\tutorial\tutorial\figio.h
+	"Figure.h"
+	<iostream>
+
